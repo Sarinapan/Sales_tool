@@ -1,7 +1,7 @@
 package ca.demo.salestool;
 
 /**
- * Represent the sales data for a given period.
+ * Add new statement
  */
 public class SalesData {
 	int data[] = {-1, 0, 4, 42, 84};
@@ -16,6 +16,7 @@ public class SalesData {
 		}
 		
 		System.out.println("Sum is: " + sum);
+		System.out.println("Do not change");
 	}
 
 }
